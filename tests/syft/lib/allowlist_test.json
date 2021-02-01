@@ -312,9 +312,6 @@
       "T": {
         "profile": "tensor_property_noinput"
       },
-      "t": {
-        "profile": "tensor_method_noinput"
-      },
       "__abs__": {
         "profile": "tensor_method_noinput",
         "not_available": [
